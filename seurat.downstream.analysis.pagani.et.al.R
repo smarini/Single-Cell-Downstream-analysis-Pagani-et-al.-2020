@@ -1,6 +1,5 @@
 library(Seurat)
 
-outs_folder <- 'path/to/outputs'
 sets <- list()
 set.day = c('00', '07', '42', '42')
 for (i in c('Sample_352-AH-1', 'Sample_352-AH-2', 'Sample_352-AH-3', 'Sample_352-AH-4')){
