@@ -1,8 +1,5 @@
 library(Seurat)
 library(rlist) # append.list
-library(ggplot2)
-library(grid)
-library(gridExtra)
 
 outs_folder <- 'path/to/outputs'
 sets <- list()
