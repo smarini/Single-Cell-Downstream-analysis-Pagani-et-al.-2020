@@ -1,4 +1,4 @@
-library(Seurat9)
+library(Seurat)
 library(rlist) # append.list
 library(ggplot2)
 library(grid)
