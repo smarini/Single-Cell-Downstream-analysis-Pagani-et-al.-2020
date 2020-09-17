@@ -1,5 +1,4 @@
 library(Seurat)
-library(rlist) # append.list
 
 outs_folder <- 'path/to/outputs'
 sets <- list()
